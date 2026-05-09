@@ -1,8 +1,12 @@
 # Premium TickTick Windows Client
 
 ### For Ubuntu and probably Macos users:
+
 > [!TIP]
-> If you want to learn how you can do the same for Electron version of the ticktick [follow instructions by the community.](https://github.com/yazdipour/unlimited-ticktick-windows/issues/12)
+> You can also find a MacOS version of this patch in the [Unlimited TickTick - MacOS ](https://github.com/yazdipour/unlimited-ticktick-macos) repository.
+
+> [!TIP]
+> If you want to learn how you can do the same for Linux🐧/Electron version of the ticktick [follow instructions by the community.](https://github.com/yazdipour/unlimited-ticktick-windows/issues/12)
 
 ### How to use? 
 
@@ -21,8 +25,7 @@ You can also download the final patched executable output from [Here](https://gi
 - Reminders
 - Themes
 - ⚠️ Unlimited Habits (Might not sync properly)
-- ⚠️ Some features might not work if it is restricted on server side
-
+- ⚠️ **Some features might not work if it is restricted on server side**
 ## Patch with TTPatcher Script
 
 ### Using .NET (Direct)
@@ -96,3 +99,7 @@ public bool IsPro
 }
 ```
 </details>
+
+## Disclaimer
+
+This repository is provided for informational and educational purposes only.
